@@ -1,0 +1,11 @@
+BUGS / SHOULD BE DONE
+add to editor UI
+default styles toggle in settings page that enables or disables a CSS enqueue
+update readme
+plugin page on arsdehnel.net
+code modal for different sizes
+
+
+ENHANCEMENTS / NICE TO HAVE
+settings page allows dynamic (array-based) size options
+adjust meta box to handle array-based size options

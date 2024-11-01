@@ -1,0 +1,33 @@
+#simplemodal-meta-box .form-table th{
+	width: 100px;
+}
+
+#namediv .simplemodal-form-subitem{
+	display: inline-block;
+	margin-right: 30px;
+}
+#namediv .simplemodal-form-subitem label{
+	display: inline-block;
+	width: 50px;
+}
+#namediv .simplemodal-form-subitem input.small{
+	width: 100px;
+}
+
+/* -------------------------------------
+   utilities
+   ------------------------------------- */
+.hide{
+	display: none;
+}
+.clearfix::after{
+	content: '';
+	display: table;
+	clear: both;
+}
+.pull-left{
+	float: left;
+}
+.pull-right{
+	float: right;
+}
